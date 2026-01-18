@@ -1,0 +1,24 @@
+{
+  "parent": "mcpaint:trigger/root",
+  "criteria": {
+    "interact": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:item_frame"
+          ],
+	  "nbt": "{mcpaint:{trigger_item_frame:1b}}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "interact"
+    ]
+  ],
+  "rewards": {
+    "function": "mcpaint:trigger/place_trigger_item_frame"
+  }
+}

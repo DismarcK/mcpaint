@@ -1,0 +1,1 @@
+give @s shield{CustomModelData:1,display:{Name:'{"translate":"item.mcpaint.pro_brush","italic":false}',Lore:['{"text":"q: cycle tools"}','{"text":"shift+q: cycle subtools"}','{"text":"f: undo"}','{"text":"shift+f: redo"}']},mcpaint:{pro_brush:1b}}

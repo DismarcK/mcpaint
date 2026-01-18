@@ -1,0 +1,1 @@
+give @s armor_stand{EntityTag:{Tags:["mcpaint.fake_player"],CustomName:'{"text":"Fake Player"}',CustomNameVisible:1b}}

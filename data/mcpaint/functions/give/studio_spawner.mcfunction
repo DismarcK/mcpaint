@@ -1,0 +1,1 @@
+give @s item_frame{EntityTag:{Silent:1b,Invisible:1b,Tags:["mcpaint.trigger_item_frame"],Item:{Count:1b,id:"minecraft:stone",tag:{display:{Name:'{"translate":"item.mcpaint.illegal_item"}'},mcpaint:{trigger:"studio_spawner"}}}},display:{Name:'{"translate":"item.mcpaint.studio_spawner","italic":false}'},mcpaint:{trigger_item_frame:1b}}
